@@ -88,7 +88,7 @@ export default function About() {
 
                     <div className="flex gap-3">
                         <Button asChild>
-                            <a href="/resume.pdf" download>Download Resume</a>
+                            <a href="/contact">Contact Me</a>
                         </Button>
                         <Button variant="outline" asChild>
                             <a href="https://github.com/rotinoo" target="_blank" rel="noopener noreferrer">View GitHub</a>
